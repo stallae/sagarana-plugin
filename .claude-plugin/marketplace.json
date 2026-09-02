@@ -9,10 +9,24 @@
     {
       "name": "sagarana",
       "description": "Leitura da sua conta Sagarana: catálogo, estante, feed e detalhe de livro. Somente leitura — o token OAuth não autentica rota de escrita nenhuma.",
-      "author": { "name": "Stallae", "email": "arthur@stallae.com" },
+      "author": {
+        "name": "Stallae",
+        "email": "arthur@stallae.com"
+      },
       "source": "./plugins/sagarana",
       "category": "productivity",
       "homepage": "https://www.sagarana.com.br"
+    },
+    {
+      "name": "sagarana-dev",
+      "description": "Sagarana apontado ao ambiente de DESENVOLVIMENTO — banco e contas separados da produção. Use para testar; para uso real instale `sagarana`.",
+      "author": {
+        "name": "Stallae",
+        "email": "arthur@stallae.com"
+      },
+      "source": "./plugins/sagarana-dev",
+      "category": "productivity",
+      "homepage": "https://dev.sagarana.com.br"
     }
   ]
 }

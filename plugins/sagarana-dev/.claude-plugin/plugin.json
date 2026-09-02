@@ -1,0 +1,7 @@
+{
+  "name": "sagarana-dev",
+  "description": "Sagarana apontado ao ambiente de DESENVOLVIMENTO. Banco e contas separados da produção. Somente leitura.",
+  "version": "0.1.0",
+  "author": { "name": "Stallae", "email": "arthur@stallae.com" },
+  "homepage": "https://dev.sagarana.com.br"
+}

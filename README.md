@@ -21,9 +21,10 @@ Depois `/plugin` e escolha `sagarana`.
 
 ## Plugins
 
-| plugin | o que faz |
-|---|---|
-| [`sagarana`](plugins/sagarana) | leitura da sua conta Sagarana — catálogo, estante, feed e detalhe de livro |
+| plugin | aponta para | quando usar |
+|---|---|---|
+| [`sagarana`](plugins/sagarana) | produção (`api.sagarana.com.br`) | uso real |
+| [`sagarana-dev`](plugins/sagarana-dev) | dev (`api.dev.sagarana.com.br`) | testar — banco e contas separados da produção |
 
 ## Por que este repositório é separado
 
