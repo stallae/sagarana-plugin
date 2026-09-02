@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sagarana": {
+      "type": "http",
+      "url": "https://api.sagarana.com.br/api/mcp"
+    }
+  }
+}

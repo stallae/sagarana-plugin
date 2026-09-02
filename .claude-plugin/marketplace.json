@@ -1,0 +1,18 @@
+{
+  "name": "stallae",
+  "description": "Plugins da Stallae para o Claude Code.",
+  "owner": {
+    "name": "Stallae",
+    "email": "arthur@stallae.com"
+  },
+  "plugins": [
+    {
+      "name": "sagarana",
+      "description": "Leitura da sua conta Sagarana: catálogo, estante, feed e detalhe de livro. Somente leitura — o token OAuth não autentica rota de escrita nenhuma.",
+      "author": { "name": "Stallae", "email": "arthur@stallae.com" },
+      "source": "./plugins/sagarana",
+      "category": "productivity",
+      "homepage": "https://www.sagarana.com.br"
+    }
+  ]
+}

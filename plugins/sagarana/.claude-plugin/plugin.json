@@ -1,0 +1,10 @@
+{
+  "name": "sagarana",
+  "description": "Leitura da sua conta Sagarana: catálogo, estante, feed e detalhe de livro. Somente leitura — o token não alcança nenhuma rota de escrita.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Stallae",
+    "email": "arthur@stallae.com"
+  },
+  "homepage": "https://www.sagarana.com.br"
+}
